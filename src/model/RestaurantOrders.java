@@ -16,39 +16,39 @@ public class RestaurantOrders {
     this.ticketNumber = ticketNumber;
     }
 
-    //REQUIRES the grade should be between 0.0 and 4.0, and/or the course should not be null
-    //MODIFIES this
-    //EFFECTS assign a grade to a course in the transcript
+    //REQUIRES ...
+    //MODIFIES this/or delete
+    //EFFECTS ...
     public void takeOrder(String customerName, double comboID) {
     }
 
-    //REQUIRES the grade should be between 0.0 and 4.0, and/or the course should not be null
-    //MODIFIES this
-    //EFFECTS assign a grade to a course in the transcript
+    //REQUIRES ...
+    //MODIFIES this/or delete
+    //EFFECTS ...
     public void addSpecialInstructions(double ticketNumber, String specialInstructions) {
     }
 
-    //REQUIRES the grade should be between 0.0 and 4.0, and/or the course should not be null
-    //MODIFIES this
-    //EFFECTS assign a grade to a course in the transcript
+    //REQUIRES ...
+    //MODIFIES this/or delete
+    //EFFECTS ...
     public void setPrice(double ticketNumber) {
     }
 
-    //REQUIRES the grade should be between 0.0 and 4.0, and/or the course should not be null
-    //MODIFIES this
-    //EFFECTS assign a grade to a course in the transcript
+    //REQUIRES ...
+    //MODIFIES this/or delete
+    //EFFECTS ...
     public void orderStatus(double ticketNumber) {
     }
 
-    //REQUIRES the grade should be between 0.0 and 4.0, and/or the course should not be null
-    //MODIFIES this
-    //EFFECTS assign a grade to a course in the transcript
+    //REQUIRES ...
+    //MODIFIES this/or delete
+    //EFFECTS ...
     public void printCustomerReceipt(double ticketNumber) {
     }
 
-    //REQUIRES the grade should be between 0.0 and 4.0, and/or the course should not be null
-    //MODIFIES this
-    //EFFECTS assign a grade to a course in the transcript
+    //REQUIRES ...
+    //MODIFIES this/or delete
+    //EFFECTS ...
     public void printKitchenTicket(double ticketNumber) {
     }
 
